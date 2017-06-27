@@ -1,6 +1,6 @@
 # Keras CNN classifier</br>
 Use Keras(based on Tensorflow) to build a Convolutional Neural Network,
-and apply on handwrite numbers(0~9) recognition(MNIST database)
+and apply it on the handwrite numbers(0~9) recognition(use MNIST database)
 
 The code structure is based on MorvanZhou tutorials
 (https://www.youtube.com/watch?v=3mpDXAXFkfg)
